@@ -37,25 +37,25 @@ Critérios que usei para aceitar uma fonte:
 
 | Fonte | Tipo | Observação |
 |---|---|---|
-| *Guia de Automação e Negócios com n8n* | PDF | PREENCHER_QUEM_FEZ (eu, ou uma IA a partir de quais fontes). Reúne ideias de automação por nicho (clínicas, estúdios e contabilidade), pacotes de serviço e scripts de abordagem. Os valores em R$ e percentuais, como "até 80% menos faltas", são hipóteses de trabalho, não dados verificados. Vou validá-los com clientes reais. |
+| *Guia de Automação e Negócios com n8n* | PDF | eu, a partir de pesquisas. Reúne ideias de automação por nicho (clínicas, estúdios e contabilidade), pacotes de serviço e scripts de abordagem. Os valores em R$ e percentuais, como "até 80% menos faltas", são hipóteses de trabalho, não dados verificados. Vou validá-los com clientes reais. |
 
 ### Artigos e páginas da web
 
 Entraram pela pesquisa do próprio Gemini Notebook. Mantive as que tratam de perfil de cliente ideal, cadência de prospecção, scripts de venda, CRM e atendimento com IA, que são os temas do meu objetivo.
 
-- 10 Ideal Customer Profile Examples to Scale Yo... (PREENCHER_LINK)
-- B2B Ideal Customer Profile Evaluation Criteria... (PREENCHER_LINK)
-- 20 modelos de script de vendas para WhatsAp... (PREENCHER_LINK)
-- Cadência de Prospecção Multicanal: E-mail, Te... (PREENCHER_LINK)
-- Cadência de Prospecção: Como Combinar Lin... (PREENCHER_LINK)
-- Chatbot WhatsApp com IA Sem Programar e... (PREENCHER_LINK)
-- Como automatizar processos em escritório de... (PREENCHER_LINK)
-- Conteúdos | IAChatbot, Agentes de IA para At... (PREENCHER_LINK)
-- Ferramenta de prospecção com cadências de... (PREENCHER_LINK)
-- How To Create an Outbound Sales Strategy fo... (PREENCHER_LINK)
-- How To Scale Outbound Sales With Automatio... (PREENCHER_LINK)
-- O que é CRM e para que serve? Tipos, benefíci... (PREENCHER_LINK)
-- PREENCHER_DEMAIS_FONTES
+- 10 Ideal Customer Profile Examples to Scale Yo... 
+- B2B Ideal Customer Profile Evaluation Criteria... 
+- 20 modelos de script de vendas para WhatsAp...
+- Cadência de Prospecção Multicanal: E-mail, Te... 
+- Cadência de Prospecção: Como Combinar Lin.
+- Chatbot WhatsApp com IA Sem Programar e... 
+- Como automatizar processos em escritório de... 
+- Conteúdos | IAChatbot, Agentes de IA para At... 
+- Ferramenta de prospecção com cadências de... 
+- How To Create an Outbound Sales Strategy fo... 
+- How To Scale Outbound Sales With Automatio...
+- O que é CRM e para que serve? Tipos, benefíci...
+
 
 ## Diretriz de comportamento dada ao notebook
 
@@ -81,38 +81,17 @@ Resumo da resposta do notebook:
 - **Aplicações práticas:** atendimento 24 horas consultando uma base de conhecimento, agendamento automatizado, análise de contexto e sentimento para priorizar atendimentos, e execução de ações por ferramentas (consultar estoque, registrar em planilhas, atualizar CRM).
 - **Estrutura de implementação:** um gatilho (por exemplo, nova mensagem no WhatsApp), instruções e memória para a IA lembrar da conversa, e uma infraestrutura conectada por API oficial (como a WhatsApp Cloud API) a uma plataforma de automação visual, como o n8n.
 
-**Fontes citadas pelo notebook:** PREENCHER_FONTES_DAS_CITACOES_1_A_18
+**Fontes citadas pelo notebook:
 
 Prints: ![Pergunta 1, parte 1](prints/pergunta-1-parte-1.png) ![Pergunta 1, parte 2](prints/pergunta-1-parte-2.png)
 
-### Pergunta 2: diagnosticar
-
-**"Quais perguntas devo fazer a uma clínica ou a um estúdio na primeira conversa para entender os problemas dele?"**
-
-- **Resposta (resumo):** PREENCHER_RESPOSTA
-- **Fontes citadas:** PREENCHER_FONTES
-- **Print:** ![Pergunta 2](prints/pergunta-2.png)
-
-### Pergunta 3: negociar
-
-**"O dono do estúdio disse 'acho caro'. Como respondo, e que tipo de objeção é essa?"**
-
-- **Resposta (resumo):** PREENCHER_RESPOSTA
-- **Fontes citadas:** PREENCHER_FONTES
-- **Print:** ![Pergunta 3](prints/pergunta-3.png)
-
-### Pergunta 4: prospectar
-
-**"Como abordar pela primeira vez o dono de um estúdio de beleza, pelo Instagram ou pessoalmente?"**
-
-- **Resposta (resumo):** PREENCHER_RESPOSTA
-- **Fontes citadas:** PREENCHER_FONTES
-- **Print:** ![Pergunta 4](prints/pergunta-4.png)
 
 ## Materiais gerados no Estúdio
 
-- Apresentação de slides "A Máquina de Vendas B2B": [materiais/a-maquina-de-vendas-b2b.pdf](materiais/a-maquina-de-vendas-b2b.pdf)
-- Mapa mental "Estratégias B2B": [materiais/estrategias-b2b-mapa-mental.png](materiais/estrategias-b2b-mapa-mental.png)
+- Apresentação de slides "A Máquina de Vendas B2B": 
+  
+- Mapa mental "Estratégias B2B": [[materiais/estrategias-b2b-mapa-mental.png](materiais/estrategias-b2b-mapa-mental.png)
+](https://notebook.google.com/notebook/3af65683-3d0d-41e7-a6f0-046501f98aa3/artifact/2ec29184-ee20-45ce-b4bd-121426c2c15d?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
 
 ## Link do notebook compartilhado
 
