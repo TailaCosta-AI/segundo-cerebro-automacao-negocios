@@ -82,10 +82,10 @@ Resumo da resposta do notebook:
 - **Estrutura de implementação:** um gatilho (por exemplo, nova mensagem no WhatsApp), instruções e memória para a IA lembrar da conversa, e uma infraestrutura conectada por API oficial (como a WhatsApp Cloud API) a uma plataforma de automação visual, como o n8n.
 
 **Fontes citadas pelo notebook:
-
-Prints: Prints: 
+ 
+Prints: 
 [![Pergunta 1, parte 1](2026-10-25.png)](2026-10-25.png) 
-[![Pergunta 1, parte 2](2026-10-25\ \(1\).png)](2026-10-25\ \(1\).png)
+[![Pergunta 1, parte 2](2026-10-25%20%281%29.png)](2026-10-25%20%281%29.png)
 
 ## Materiais gerados no Estúdio
 
