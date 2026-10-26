@@ -88,14 +88,13 @@ Prints: ![Pergunta 1, parte 1](prints/pergunta-1-parte-1.png) ![Pergunta 1, part
 
 ## Materiais gerados no Estúdio
 
-- Apresentação de slides "A Máquina de Vendas B2B": 
+- Apresentação de slides "A Máquina de Vendas B2B": https://notebook.google.com/notebook/3af65683-3d0d-41e7-a6f0-046501f98aa3/artifact/d19c0f84-9e27-4c52-b835-fba4fa6cfc54?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
   
 - Mapa mental "Estratégias B2B": [[materiais/estrategias-b2b-mapa-mental.png](materiais/estrategias-b2b-mapa-mental.png)
 ](https://notebook.google.com/notebook/3af65683-3d0d-41e7-a6f0-046501f98aa3/artifact/2ec29184-ee20-45ce-b4bd-121426c2c15d?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
 
 ## Link do notebook compartilhado
-
-PREENCHER_LINK_DO_NOTEBOOK
+https://notebook.google.com/notebook/3af65683-3d0d-41e7-a6f0-046501f98aa3
 
 ## Limites e cuidados
 
