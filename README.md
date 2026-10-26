@@ -83,8 +83,9 @@ Resumo da resposta do notebook:
 
 **Fontes citadas pelo notebook:
 
-Prints: ![Pergunta 1, parte 1: 12026-10-25.png
- ![Pergunta 1, parte 2: 2026-10-25 (1).png
+Prints: Prints: 
+[![Pergunta 1, parte 1](2026-10-25.png)](2026-10-25.png) 
+[![Pergunta 1, parte 2](2026-10-25\ \(1\).png)](2026-10-25\ \(1\).png)
 
 ## Materiais gerados no Estúdio
 
